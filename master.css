@@ -1,6 +1,14 @@
 * {
   padding: 0px;
+
   background-color: red;
   border: 5px solid green; 
   color: white;
+
+  background-color: #eee;
+  border: 5px solid green; 
+  color: red;
+  margin: 30px;
+  font-size: 30px
+
 }
